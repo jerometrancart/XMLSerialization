@@ -1,0 +1,15 @@
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\bin\Debug\net7.0\xdocument.exe
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\bin\Debug\net7.0\xdocument.deps.json
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\bin\Debug\net7.0\xdocument.runtimeconfig.json
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\bin\Debug\net7.0\xdocument.dll
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\bin\Debug\net7.0\xdocument.pdb
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.csproj.AssemblyReference.cache
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.AssemblyInfoInputs.cache
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.AssemblyInfo.cs
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.csproj.CoreCompileInputs.cache
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.dll
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\refint\xdocument.dll
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.pdb
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\xdocument.genruntimeconfig.cache
+C:\wamp64\www\.Net\Section_8\XMLSerialization\xdocument\obj\Debug\net7.0\ref\xdocument.dll
